@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My relatives</string>
+    <string name="textview1">的</string>
+    <string name="textview2">来了解一下你的亲戚们吧！</string>
+    <string name="button1">是什么？</string>
+    <string-array name="spinner1">
+        <item>爸爸</item>
+        <item>妈妈</item>
+    </string-array>
+</resources>
