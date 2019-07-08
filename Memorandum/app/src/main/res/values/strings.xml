@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">备忘录</string>
+    <string name="editor_note">添加笔记</string>
+    <string name="editor_name">编辑笔记</string>
+    <string name="finish_note">完成笔记</string>
+    <string name="edit_title">标题</string>
+    <string name="edit_text">内容</string>
+    <string name="edit_button">保存</string>
+    <string name="reade_name">阅读笔记</string>
+    <string name="read_share">分享文章</string>
+</resources>
